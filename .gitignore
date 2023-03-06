@@ -263,3 +263,5 @@ $RECYCLE.BIN/
 
 # Data
 data/**/*.js
+polars/**
+polars_2d/**
