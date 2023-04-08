@@ -265,3 +265,8 @@ $RECYCLE.BIN/
 data/**/*.js
 polars/**
 polars_2d/**
+MagicEyes/**
+filtered_data/**
+numpy_2d/**
+*.csv
+*.zip
